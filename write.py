@@ -59,7 +59,7 @@ def buy_invoice(items,name):
         #Printing the invoice in the terminal
         print("\n")
         print("="*70)
-        print("\n\tWeCare Wholesale Restock Invoice\n")
+        print("\n\tShrestha Wholesale Restock Invoice\n")
         print("="*70)
         print("Date: " + str(date))
         print("Time: " + str(time))

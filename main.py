@@ -21,7 +21,7 @@ def main():
             #printing the header of main menu
             print("\n")
             print("="*80)
-            print("\t\t\t\tWeCare Beauty Shop")
+            print("\t\t\t\tShrestha Beauty Shop")
             print("\t\t\tPepsicola, Kathmandu | Contact: 999999999 ")
             print("-"*80)
             print("\t\tWelcome to WeCare Beauty Shop! Have a good day ahead!")
